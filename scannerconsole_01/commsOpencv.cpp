@@ -34,7 +34,7 @@ extern int range_mm;                // measured range cam to target (mm)
 
 
 //--------------------------------------------------------
-// void Mwars::Listener::listener()
+// void Mwars::Listener::listener() .
 //		signals:	readyRead()
 //
 // Receives pointing stream, laser commands from Project mwars02, udpSender.cpp
